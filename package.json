@@ -1,0 +1,26 @@
+{
+  "name": "countries-towns",
+  "version": "1.0.0",
+  "description": "Sukurti saliu ir miestu informacijos aplikacija",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejupas/countriesInfo.git"
+  },
+  "keywords": [
+    "countries",
+    "towns",
+    "fullstack",
+    "mern",
+    "app"
+  ],
+  "author": "Mindaugas Kapickas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejupas/countriesInfo/issues"
+  },
+  "homepage": "https://github.com/Alejupas/countriesInfo#readme"
+}
