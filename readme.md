@@ -2,6 +2,7 @@
 Sukurti saliu ir miestu informacijos aplikacija
 
 funkcionalumas
+
 Galimybe sukurti naujos salies ar miesto irasa
 Galimybe matyti visas ivestas salis ir miestus
 Galimybe istrinti sali ar miesta.
