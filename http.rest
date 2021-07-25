@@ -1,9 +1,0 @@
-POST http://localhost:5000/addNewPlace Content-Type: application/json
-
-{
-"title": "Vilnius", "mainLand": "Europe", "population": 300000, "countryOrCity": "city"
-}
-
-### get all places
-
-GET http://localhost:5000/allPlaces

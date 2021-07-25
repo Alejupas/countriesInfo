@@ -40,3 +40,22 @@ su atsiustais duomenimis sukuriam nauja irasa (sukuriam bet 3 irasus)
 susikuriam serveryje route gauti visus irasus
 is fronto siunciam uzklausa ir gaunam visus irasus.
 gave irasus juos atvaizduojam fronte
+
+---
+
+2. prisijungiam mongoose
+3. pasidarom route ir issitestuojam kad veikia
+4. Pasileidziam front end, apsivalom
+   VEIKIA IR FRONT IR BACK
+
+### VEIKIA IR FRONT IR BACK
+
+5. siunciam uzklausa i back end ir ziurim ar veikia
+6. susikuriam forma front end su ivesties laukais
+7. paimam ivesties laukus ir siunciam i back end ir ziurim ar gaunam
+8. Susikuriam mogoose modeli ir schema
+9. su atsiustais duomenimis sukuriam nauja irasa (sukuriam bet 3 irasus)
+10. susikuriam serveryje route gauti
+11. susikuriam serveryje route gauti visus irasus
+12. is fronto siunciam uzklausa ir gaunam visus irasus.
+13. gave irasus juos atvaizduojam fronte
