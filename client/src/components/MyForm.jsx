@@ -67,7 +67,7 @@ class MyForm extends Component {
       return (
         <div className={this.props.place ? 'card-body' : 'w-50'}>
         {this.props.place ? null : <h2>Create new place</h2>}
-          <form onSubmit={this.handleSubmitLocal} autoComplete="off">
+          <form onSubmit={this.handleSubmitLocal} autoComplete="off"> 
             <div className="form-group">
               <input
                 value={s.name}
