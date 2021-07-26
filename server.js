@@ -11,7 +11,7 @@ app.use(morgan('dev'));
 app.use(express.json());
 app.use(cors());
 
-//prisijungiam prie duomenu bazes
+//prisijungiam mongoose prie duomenu bazes
 mongoose
   .connect(process.env.MONGO_CONN_STRING, {
     useNewUrlParser: true,
